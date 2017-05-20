@@ -18,6 +18,6 @@
 	"public_header_files": "DPSessionManager/*.h",
 	"source_files": "DPSessionManager/**/*.{swift}",
 	"dependencies": {
-		"Bolts-Swift": ['1.2.0']
+		"Bolts-Swift": ["1.2.0"]
 	}
 }
